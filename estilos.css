@@ -1,0 +1,33 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgb(204, 177, 223);
+}
+.titulos {
+    text-align:center;
+    color: rgb(23, 139, 206);
+    text-decoration: underline;
+}
+.fecha{
+    text-decoration-line: underline;
+}
+.contacto{
+    background-color: rgb(23, 140, 205);
+    color: rgb(233, 241, 248);
+}
+p{ font-size: large;
+    text-align:center;
+}
+#jap{ color: rgb(233, 158, 20);
+    outline-style: dotted;
+    outline-color: rgb(233, 158, 20);
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+}
+#experiencias{
+    background-color: rgb(204, 160, 229);
+}
+footer{
+    text-decoration: underline;
+}
